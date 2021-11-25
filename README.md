@@ -70,7 +70,7 @@ show a great accuracy of the model with low error, loss and good f-score.
 
 [Kaggle Dataset Big size 15 GB](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
 
-[Kaggle Dataset Small size 572 MB](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
+[Kaggle Dataset Small size 572 MB](https://www.kaggle.com/paramaggarwal/fashion-product-images-small)
 
 ## Screenshots
 
